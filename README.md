@@ -7,7 +7,7 @@ The number of fingers shown to the camera can be given a particular meaning. For
 
 Input:
 
-![](images/pptc1.jpg)
+![](images/pptc1.png)
 
 Output:
 
